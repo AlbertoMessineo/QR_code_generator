@@ -1,0 +1,18 @@
+body{
+    background-color: #3066BE;
+}
+.container{
+    margin: 0 auto;
+}
+.btn{
+    background-color: #80ded9;
+    width: 20%;
+    align-self:center ;
+}
+/* #qrcode{
+    margin: 0 auto;
+    width: 156px;
+    height: 156px;
+    border-radius: 5px;
+    border: 2px solid #80ded9 ;
+} */
